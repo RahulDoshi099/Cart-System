@@ -1,0 +1,43 @@
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+    padding: 15px;
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: slategrey;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.UniqId{
+    margin-bottom: 15px;
+}
+
+.name{
+    margin-bottom: 15px;
+}
+
+.desc{
+    margin-bottom: 15px;
+}
+
+.price{
+    margin-bottom: 15px;
+}
+
+.status{
+    margin-bottom: 15px;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
